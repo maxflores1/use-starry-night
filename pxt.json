@@ -1,0 +1,25 @@
+{
+    "name": "use starry night",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "task 2a": "github:maxflores1/task-2a#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.11.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
